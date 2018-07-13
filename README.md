@@ -58,7 +58,7 @@ A: Absolutely. You don't require knowledge of any particular language. However, 
 
 ### License
 
-The MIT License 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt/).
+The MIT License 2017 - [Dhruv Apte](http://github.com/the-ethan-hunt/)
 
 
 
